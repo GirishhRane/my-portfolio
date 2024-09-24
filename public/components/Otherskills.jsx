@@ -1,6 +1,6 @@
 import React from "react";
-import gamer from "../../src/assets/xbox.jpg";
-import filmora from "../../src/assets/filmors.png";
+import gamer from "../src/assets/xbox.jpg";
+import filmora from "../src/assets/filmors.png";
 function Otherskills() {
   return (
     <div
